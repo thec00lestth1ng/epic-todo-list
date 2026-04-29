@@ -27,6 +27,7 @@ def open_todo_list():
  global whatremove
  global numchange
  global whatchange
+ global addwhat
  whatremove = 0 
  numchange = 0
  while True:
